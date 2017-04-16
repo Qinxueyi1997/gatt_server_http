@@ -9,7 +9,7 @@
 ***
 
 ## Summary
- gatt_server , receive BLE data, send to clud Service 
+ gatt_server , receive BLE data, send to cloud Service 
 
  wifi Use
 
